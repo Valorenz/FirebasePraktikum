@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "397745006036",
+    "firebase_url": "https://praktikumpam-8aeb8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "praktikumpam-8aeb8",
+    "storage_bucket": "praktikumpam-8aeb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397745006036:android:99c36f05c9133ceba5a241",
+        "android_client_info": {
+          "package_name": "com.example.firebasepraktikum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRsrjNpdHMiYcuVBxhfLXgh7RNxp563k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397745006036:android:67c07e7517731771a5a241",
+        "android_client_info": {
+          "package_name": "com.example.firebasepraktikum2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRsrjNpdHMiYcuVBxhfLXgh7RNxp563k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397745006036:android:866016ae4d2e28bea5a241",
+        "android_client_info": {
+          "package_name": "com.example.planic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgRsrjNpdHMiYcuVBxhfLXgh7RNxp563k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397745006036-rf85e1783tb0tv1o3tvafamcragjfn7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
